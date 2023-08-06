@@ -20,7 +20,7 @@
     <header>
 
         <nav class="cabecalho">
-            <a class="logo" href="../index.html"></a>
+            <a class="logo" href="../index.php"></a>
 
             <div class="cabecalho__icones">
                 <a href="./enviar-video.html" class="cabecalho__videos"></a>
@@ -36,8 +36,7 @@
             <h2 class="formulario__titulo">Efetue login</h3>
                 <div class="formulario__campo">
                     <label class="campo__etiqueta" for="usuario">Usuário</label>
-                    <input name="user" class="campo__escrita" required
-                        placeholder="Digite seu usuário" id='usuario' />
+                    <input name="user" class="campo__escrita" required placeholder="Digite seu usuário" id='usuario' />
                 </div>
 
 
